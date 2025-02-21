@@ -1,0 +1,5 @@
+01 Iraklis Paul 1000 250000
+02 Faidwn Tsan 1200 30000
+03 George Tsan 2000 40000
+04 Agamenon Ken 900 2400
+05 Makis Dimos 2000 25
